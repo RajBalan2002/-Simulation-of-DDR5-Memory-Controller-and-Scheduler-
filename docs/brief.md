@@ -1,10 +1,3 @@
-## ECE 485/585 Team 05 Final Project
-
-### Members:
-- Abdulaziz Alateeqi	
-- Meshal Almutairi	
-- Eduardo Simancas	
-- Gene Hu
 
 #### Discription:
 This project is a simulator for the scheduling portion of a memory controller. 
