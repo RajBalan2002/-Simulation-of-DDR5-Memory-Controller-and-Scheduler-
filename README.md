@@ -1,4 +1,4 @@
-# Simulation-of-DDR5-Memory-Controller-and-Scheduler-
+# Simulation-of-DDR5-Memory-Controller-and-Scheduler
 
 ## Project Overview
 
